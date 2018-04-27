@@ -1,0 +1,20 @@
+AddCustomer 33 Nurbuke Teker 234-5677896 Address of the customer or any where else
+AddCustomer 88 Antonio Giovanni 568-8964142 an other address that doesn't exist
+AddCustomer 84 Brooklyn Beckham 599-8964142 an other address that doesn't exist
+AddCustomer 85 Zehra BABA 599-8964142 an other address that doesn't exist
+AddCustomer 83 Veli Isıldak 599-8964142 an other address that doesn't exist
+RemoveCustomer 33
+CreateOrder 1 88
+CreateOrder 2 85
+AddPizza 1 AmericanPan Salami Soudjouk Onion
+AddPizza 1 Neopolitan HotPepper Onion
+AddPizza 1 Neopolitan
+AddDrink 1
+AddPizza 2 Neopolitan Salami Soudjouk Onion
+AddPizza 2 AmericanPan Salami Onion
+AddPizza 2 Neopolitan
+AddDrink 2
+AddDrink 2
+PayCheck 1
+PayCheck 2
+ListCustomers
